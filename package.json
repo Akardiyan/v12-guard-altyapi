@@ -1,0 +1,39 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "CodeWork v12 Boş Altyapı",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "request": "^2.88.2",
+    "quick.db": "^7.1.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "isgd": "^1.1.3",
+    "cheerio": "^0.22.0",
+    "chalk": "^4.1.0",
+    "useful-tools": "^0.2.6",
+    "tcmb-doviz": "^1.0.6",
+    "parse-ms": "^2.1.0",
+    "gamedig": "^3.0.0",
+    "discord-buttons": "^3.2.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
