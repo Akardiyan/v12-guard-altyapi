@@ -19,7 +19,7 @@ client.on('ready', async () => {
   
  client.user.setActivity(`@${client.user.username}`, { type:'PLAYING' })
   
-  console.log("CodeWork Akıyor!!")
+  console.log("Akardiyan")
 });
 
 const log = message => {
